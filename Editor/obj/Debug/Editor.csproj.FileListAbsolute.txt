@@ -33,3 +33,19 @@ C:\Users\DevStaf02\Downloads\reposEditor\Editor\Editor\obj\Debug\Editor.csproj.C
 C:\Users\DevStaf02\Downloads\reposEditor\Editor\Editor\obj\Debug\Editor.csproj.CopyComplete
 C:\Users\DevStaf02\Downloads\reposEditor\Editor\Editor\obj\Debug\Editor.exe
 C:\Users\DevStaf02\Downloads\reposEditor\Editor\Editor\obj\Debug\Editor.pdb
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\bin\Debug\Editor.exe.config
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\bin\Debug\Editor.exe
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\bin\Debug\Editor.pdb
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\bin\Debug\FarsiLibrary.Localization.dll
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\bin\Debug\FarsiLibrary.Utils.dll
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\bin\Debug\FarsiLibrary.Win.dll
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\bin\Debug\FastColoredTextBox.pdb
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\bin\Debug\FastColoredTextBox.xml
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\obj\Debug\Editor.csproj.AssemblyReference.cache
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\obj\Debug\Editor.PowerfulCSharpEditor.resources
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\obj\Debug\Editor.Properties.Resources.resources
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\obj\Debug\Editor.csproj.CopyComplete
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\obj\Debug\Editor.exe
+D:\Evandro\OneDrive\PRODUCAO\Editor BFC C#\EditorBFC_GIT\editor-code\Editor\obj\Debug\Editor.pdb

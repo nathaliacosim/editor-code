@@ -1,0 +1,16 @@
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\Editor.exe.config
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\Editor.exe
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\Editor.pdb
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\FarsiLibrary.Localization.dll
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\FarsiLibrary.Utils.dll
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\FarsiLibrary.Win.dll
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\FastColoredTextBox.dll
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\TabStrip.dll
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\FastColoredTextBox.pdb
+C:\Users\egsil\source\repos\Editor\Editor\bin\Release\FastColoredTextBox.xml
+C:\Users\egsil\source\repos\Editor\Editor\obj\Release\Editor.PowerfulCSharpEditor.resources
+C:\Users\egsil\source\repos\Editor\Editor\obj\Release\Editor.Properties.Resources.resources
+C:\Users\egsil\source\repos\Editor\Editor\obj\Release\Editor.csproj.GenerateResource.Cache
+C:\Users\egsil\source\repos\Editor\Editor\obj\Release\Editor.csproj.CoreCompileInputs.cache
+C:\Users\egsil\source\repos\Editor\Editor\obj\Release\Editor.exe
+C:\Users\egsil\source\repos\Editor\Editor\obj\Release\Editor.pdb

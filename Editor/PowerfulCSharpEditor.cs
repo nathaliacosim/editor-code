@@ -28,7 +28,8 @@ namespace Editor
                     "switch(^)\n{\ncase : break;\n}", 
                     "ListaMp.newInstance(mapa, alias)",
                     ".combinar(mapa, alias, {}, {});" ,
-                    ".combinarEsquerda(mapa, alias, {}, {});" ,
+                    ".combinarEsquerda(mapa, alias, {}, {});",
+                    ".aplicarCriterio({^});",
         };
         string[] declarationSnippets = { 
                "public class ^\n{\n}", "private class ^\n{\n}", "internal class ^\n{\n}",

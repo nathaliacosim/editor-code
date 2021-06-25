@@ -552,13 +552,13 @@
             // 
             // sfdMain
             // 
-            this.sfdMain.DefaultExt = "bfc";
-            this.sfdMain.Filter = "Text File|*.bfc|Any File|*.*";
+            this.sfdMain.DefaultExt = "groovy";
+            this.sfdMain.Filter = "Groovy File|*.groovy|Text File|*.bfc|Any File|*.*";
             // 
             // ofdMain
             // 
-            this.ofdMain.DefaultExt = "bfc";
-            this.ofdMain.Filter = "Text File|*.bfc|Any File|*.*";
+            this.ofdMain.DefaultExt = "groovy";
+            this.ofdMain.Filter = "Groovy File|*.groovy|Text File|*.bfc|Any File|*.*";
             // 
             // cmMain
             // 
